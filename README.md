@@ -35,7 +35,7 @@ You can deploy the portfolio using:
 - Any other hosting service
 
 ## Contact
-For inquiries or collaboration, feel free to reach out via the contact form on the website or email me at `your-email@example.com`.
+For inquiries or collaboration, feel free to reach out via the contact form on the website or email me at `AlexSlu777@gmail.com`.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
