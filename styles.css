@@ -1,4 +1,4 @@
-/* .body {
+.body {
   background-color: whitesmoke;
 }
 
@@ -85,8 +85,6 @@
   padding: 20px;
   border: 1px solid #000000;
   border-radius: 5px;
-
-  /*pointer-events: none;
 }
 
 .project_img {
@@ -141,61 +139,4 @@
 
 .contacts_me{
   margin-right: 100px;
-} */
-
-*{  
-  background-color: rgb(16, 16, 18);
-  color: rgb(215, 215, 206);
-  margin: 0px;
-  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
-  /*border: 1px solid red;*/
-}
-
-header{
-  display: flex;
-  flex-direction: row;
-  height: 50%;
-  align-items: center;
-}
-
-.header_text{
-  width:50%;
-  height:100%;
-  text-align: center;
-}
-
-.header_title{
-  font-size: 100px;
-}
-.header_desc{
-  font-size: 40px;
-}
-
-.header_img{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  height: 100%;
-}
-
-hr{
-  height:2px;
-  border-width:0;
-  color:rgb(215, 215, 206);
-  background-color:beige;
-  margin: 10px;
-}
-
-.achievement{
-  display: inline;
-  margin-right: 10px;
-}
-
-.point{
-  height: 10px;
-}
-
-.achievements{
-  align-items: center;
-
-}
+} 
